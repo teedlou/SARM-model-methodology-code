@@ -1,0 +1,3 @@
+timestamp,open,high,low,close,close_with_splits,adjusted_close,volume,dividend_amount,split_coefficient
+2023-12-31,25.195,25.41,25.195,25.395,25.395,24.6395932197915,14408,0.0,1.0
+2024-12-31,25.37,26.77,24.69,25.01,25.01,25.01,800769,0.7588,1.0
