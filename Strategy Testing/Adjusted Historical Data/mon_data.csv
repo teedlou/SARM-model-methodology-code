@@ -1,3 +1,0 @@
-timestamp,open,high,low,close,close_with_splits,adjusted_close,volume,dividend_amount,split_coefficient,timestamp (for week ended),(%) change open-close this week,($) risk on open this week,abs ($) risk on open this week,profit or loss
-2021-12-31,9.8,10.0,9.51,9.76,9.76,9.76,5609785,0.0,1.0,2021-12-31,-0.41,,,
-2022-12-31,9.76,11.13,9.56,10.07,10.07,10.07,9634337,0.0,1.0,2022-12-31,3.18,0.41,0.41,0.01
